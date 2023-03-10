@@ -1,1 +1,1 @@
-# hear-diseasses-preditcion-using-randomclassififer
+# hear-diseasses-preditcion-using-randomclassifier
